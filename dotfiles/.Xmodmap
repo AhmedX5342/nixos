@@ -1,0 +1,15 @@
+keycode 67 = F1
+keycode 68 = F2
+keycode 69 = F3
+keycode 70 = F4
+keycode 71 = F5
+keycode 72 = F6
+keycode 73 = F7
+keycode 74 = F8
+keycode 75 = F9
+keycode 76 = F10
+clear lock
+clear mod3
+keycode 66 = Hyper_L
+remove mod4 = Hyper_L
+add mod3 = Hyper_L

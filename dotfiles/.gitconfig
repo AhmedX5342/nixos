@@ -1,0 +1,13 @@
+[user]
+	name = Ahmed Ayman
+	email = ahmed.aaaeg@gmail.com
+[init]
+	default = branch
+[credential]
+	helper = cache
+[core]
+	autocrlf = input
+[diff]
+	tool = vscode
+[push]
+	default = current

@@ -1,0 +1,42 @@
+OS:
+* ubuntu
+* i3
+* rofi
+* polybar
+* betterlockscreen
+* grub
+* nvidia drivers
+* picom (fading animations)
+* custom scripts, wallpapers, etc
+
+Apps:
+* all installed packages
+* brave config
+* vscode config
+* onenote
+* thunar
+* git
+* clementine
+* qbittorrent
+* firefox
+* obs
+* phpmyadmin & mysql
+* copyq
+* baobab
+* xrandr
+* telegram
+* firefox
+* gimp
+* okular
+* libreoffice
+* android studio
+* btop
+* mvp
+* vllc
+* vim/nvim
+* timeshift
+* shotcut
+* postman
+* zoom
+* flemshot
+* installed apps/packages

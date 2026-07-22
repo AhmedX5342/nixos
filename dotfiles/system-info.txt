@@ -1,0 +1,5 @@
+Hostname: ahmed-asus
+Date: Thu Jul 16 15:00:50 EEST 2026
+Ubuntu Version: Ubuntu 24.04.4 LTS
+Kernel: 6.17.0-40-generic
+Desktop: i3wm
