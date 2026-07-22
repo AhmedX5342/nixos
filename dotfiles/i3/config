@@ -288,14 +288,11 @@ bindsym XF86AudioPause exec playerctl pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
-# Use Primary monitor script
-#exec ~/bash-scripts/display-script.sh
-
 # Set default wallpaper
-#exec feh --bg-scale Pictures/january\ 2026/bg_wallpaper.jpg
+exec feh --bg-scale /etc/nixos/dotfiles/wallpapers/bg_wallpaper.jpg
 
-# Use updated display script
-exec_always --no-startup-id ~/.config/i3/display-i3.sh
+# Use updated display script (ONLY FOR LAPTOP IF THERE IS A SECOND MONITOR)
+#exec_always --no-startup-id ~/.local/bin/display-i3.sh
 
 # calendar keybind
 bindsym $mod+c exec yad --calendar

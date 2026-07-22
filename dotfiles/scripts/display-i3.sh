@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash;
 
 pkill polybar
 
@@ -21,7 +21,7 @@ sleep 1
 #feh --bg-fill ~/Pictures/feb\ 2026/kali.png
 #feh --bg-fill ~/Pictures/feb\ 2026/mountains.jpg
 #feh --bg-fill ~/Pictures/january\ 2026/b2n28xda32651.jpg
-feh --bg-fill ~/Pictures/march\ 2026/mountains2.jpg
+feh --bg-fill /etc/nixos/dotfiles/wallpapers/bg_wallpaper.jpg
 #feh --bg-fill ~/Pictures/april\ 2026/dark2.jpg
 picom --config ~/.config/picom/picom.conf
 # set default audio device

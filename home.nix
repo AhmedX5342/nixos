@@ -108,6 +108,11 @@
 	  executable = true;
 	};
 	
+	# Laptop display script (for a second monitor)
+	#home.file.".local/bin/display-i3.sh" = {
+	# source = ./scripts/display-i3.sh;
+	#executable = true;
+	#};
 
 	services.xsettingsd.enable = true;
 }
